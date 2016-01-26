@@ -20,6 +20,7 @@ Read local file and test its content using junit 4.*. Reports in Allure. Buildin
 * Project is created as Maven artefact
 
 # Usage
+* git clone https://github.com/k1ru/allure-junit-parameterized
 * $ mvn clean test
 * $ mvn site
 * To see a report, run mvn jetty:run and open http://localhost:8080 in your browser

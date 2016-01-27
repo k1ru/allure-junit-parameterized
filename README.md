@@ -2,7 +2,8 @@
 Read local file and test its content using junit 4.*. Reports in Allure. Building by maven.
 
 # Requiremens
-* Maven 3.3.9 or higher
+* Maven 3.3+
+* Git 2.6+
 
 # Preconditions
 * dataFile.txt with the follwoing structure:
